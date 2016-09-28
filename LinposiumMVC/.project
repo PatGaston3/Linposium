@@ -3,6 +3,7 @@
 	<name>LinposiumMVC</name>
 	<comment></comment>
 	<projects>
+		<project>LinposiumJPA</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
